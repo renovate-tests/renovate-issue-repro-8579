@@ -1,6 +1,6 @@
 {
   "extends": [
-    "github>stefee/renovate-issue-repro-8579:presetOne"
+    "github>renovate-tests/renovate-issue-repro-8579:presetOne"
   ],
   "dependencyDashboard": true
 }
